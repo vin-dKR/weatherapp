@@ -4,7 +4,7 @@
 
 
 ## Installation APIs
-#react-select-async-paginate
+### react-select-async-paginate
 ```
 npm install react-select react-select-async-paginate
 ```
@@ -15,10 +15,10 @@ or
 yarn add react-select react-select-async-paginate
 ```
 
-#react-accessible-accordion
+### react-accessible-accordion
 ```
 npm install --save react-accessible-accordion
 ```
 
 
-#Deployed using Firebase 
+## Deployed using Firebase 
