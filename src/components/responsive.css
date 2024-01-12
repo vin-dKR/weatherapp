@@ -1,0 +1,33 @@
+@media only screen and (max-width: 460px) {
+    /* App.js  */
+    .container{
+        width: 100% !important;
+        position: absolute;
+    }
+
+    /* search.js  */
+    .search{
+        width: 300px;
+    }
+
+    /* Current-weather.js  */
+    .weather{
+        width: 250px;
+    }
+    .weather-container{
+        width:auto !important;
+        font-size: smaller !important;
+    }
+
+    /* Forecast.js */
+    .daily-item{
+        padding: 5px !important;
+    }
+    .day{
+        margin-left: 2px !important;
+    }
+    .description{
+        font-size: smaller !important; 
+        margin: 0 8px;  
+     }
+  }
